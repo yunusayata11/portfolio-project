@@ -1,2 +1,2 @@
 # portfolio-project
-basix portfolio web project
+basic portfolio web project
